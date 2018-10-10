@@ -1,0 +1,116 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.logo{width: 100px;}
+.icon{width: 38px;
+	margin-bottom: 9px;
+	margin-left: -2px;}
+
+	.margin{
+		margin-top: 20px;
+	}
+	.input{padding-right: 185px;
+		padding-top: 10px;
+		border: 2px solid black;} 
+
+		.button{
+			position: absolute;
+			border:0px ;
+			padding: 5px;
+		}
+		.signUp{
+			right: 150px;
+			width: 80px;}
+
+			.nav{
+				padding: 5px;
+				background-color:#052946;
+				margin-top: 5px;
+				color: white;
+			}
+
+			/*.container-fluid{
+				background-image: url(images/shoes-background2.jpg);
+			}*/
+
+			ul{
+				background-color:#052946; 
+				border-radius: 0px;
+				padding: 0;
+				position: absolute;
+				top: 100%;
+				list-style-type: none;
+				opacity: 0;
+				/*right: 208px;*/
+				float: 0px;
+				z-index: 2;
+			}
+
+			/*li{
+				position: relative;
+			}*/
+
+
+			ul li a{
+				padding: 15px 40px;
+				text-decoration: none;
+				color:white; 
+			}
+
+			#Shoes:hover ul{
+				opacity: 1;
+				transition: 1s;
+			}
+			#background {
+				background-image: url("images/back4.jpg");
+				height: 500px;
+				margin-top: 5px;
+				background-size: cover;
+			}
+			
+			.heading2{
+				color:white;
+				margin-top: 225px;
+				margin-bottom:74px;
+			}
+			#contact{
+				background-color: #858da0;
+				margin-top: 5px;
+				text-align: center;
+			}
+			.footer{
+				background-color: #204465;
+				margin-top: 5px;
+				padding:10px;
+				text-align: center;
+				font-weight: bold;
+
+				}
+
+			.women{
+				width:300px;
+				display: block;
+				margin-right: 0px;
+				margin-left: 0px;
+				height: 250px;
+			}
+			#women_row{
+				/*border: 1px solid blue;*/
+				margin-top: 5px;
+			}
+
+			h3{
+				font-size: 20px;
+			}
+
+			h4{
+				font-size: 15px;
+			}
+
+			#back {
+				background-image: url("images/bg3.jpg");
+				height: 500px;
+				margin-top: 5px;
+				background-size: cover;
+			}

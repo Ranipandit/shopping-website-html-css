@@ -1,0 +1,52 @@
+body{
+	background-image: url("images/bg.jpg");
+	background-size: cover;
+}
+
+#main {
+	text-align: center;
+	margin: auto;
+	margin-left: -30px;
+	margin-top: 238px;
+}
+
+.content{
+	margin: 10px;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.inp1{
+	margin: 5px;
+}
+
+.inp2{
+	margin: 5px;
+}
+
+
+.inp{
+	margin: 5px;
+	background: #007bff85;
+	text-decoration: none;
+	outline: none;
+	width: 80px;
+	height: 40px;
+}
+
+#head {
+	text-align: center;
+	color: black;
+	margin-top: -21px;
+	font-weight: bold;
+	font-family: "ubuntu"
+	font-size:40px;
+}
+.inp:hover{
+	color:white;
+	font-size: 21px;
+	cursor: pointer;
+}
+.sign{
+	margin-right: 10px;
+}
